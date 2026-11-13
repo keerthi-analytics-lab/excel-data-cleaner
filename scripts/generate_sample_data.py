@@ -190,7 +190,8 @@ def build_customer_rows(rng: random.Random) -> list[list[str]]:
 
 def write_customers(rng: random.Random) -> Path:
     path = SAMPLE_DIR / "raw_customer_records.csv"
-    with path.open("w", newline="", encoding="utf-8") as handle:
+    # utf-8-sig adds a byte-order mark so Excel shows accented names (José) correctly.
+    with path.open("w", newline="", encoding="utf-8-sig") as handle:
         writer = csv.writer(handle)
         writer.writerow(CUSTOMER_HEADERS)
         writer.writerows(build_customer_rows(rng))
