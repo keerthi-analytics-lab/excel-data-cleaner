@@ -1,0 +1,156 @@
+ Customer ID,Full Name,Email Address,Phone No.,City ,Country,SignupDate,Total Spent ($),Membership
+C-0001,ETHAN JOHNSON, ethan.johnson1@example.com  ,+1 403 555 0135,Calgary,CANADA,05-17-2023," 1,116.0 ",Gold
+c-0002,sophia garcia,sophia.garcia2@example.com,1-604-555-0154,Vancouver,canada,2022-03-07,148.99,Bronze
+C-0003,Harper Johnson,harper.johnson3@example.com,4165550125,TORONTO,CAN,08-23-2025,3506.62,Silver
+C-0004,Harper King,harper.king4@example.com,1-604-555-0135,Vancouver,canada,14 Jan 2022,3794.04,BRONZE
+C-0005,wei patel,wei.patel5@example.com,303-555-0119,Denver,U.S.A.,17 Mar 2023," 4,786.1 ",null
+C-0006,Sophia Garcia,SOPHIA.GARCIA6@EXAMPLE.COM,(602) 555-0112,PHOENIX,United States,06 Jan 2024," 4,237.5 ",
+C-0007,  Evelyn   Williams ,evelyn.williams7@example.com,+1 403 555 0158,calgary,CANADA,2025-01-03,USD 624.13,SILVER
+C-0008,Mateo White,mateo.white8@example.com,+1 514 555 0179,Montreal,CAN,TBD,USD 2886.76,Gold
+C-0009,ava williams,ava.williams9@example.com,514-555-0129,Montreal,CANADA,08/16/2023,4926.11,BRONZE
+C-0010,sophia lewis,sophia.lewis10@example.com,303.555.0158,Denver,United States,25 Jul 2025,USD 4170.55,bronze
+C-0011,JOSÉ KIM,jose@@example.com,206-555-0185,seattle,U.S.A.,"Jul 01, 2023",USD 3509.10,null
+c-0012,Ava Wilson,ava.wilson12@example.com,416-555-0193,toronto,CA,2023-05-17,817.01,Silver
+C-0013,  JAMES   MOORE ,james @example.com,514.555.0141,Montreal,CA,"Apr 25, 2022",1145.24,bronze
+C-0014,emily walker,emily.walker14@example.com,303.555.0108,DENVER,United States,03-09-2023,"$4,565.68",GOLD
+C-0015,  EMILY   THOMAS ,emily.thomas15@example.com,5145550163,MONTREAL,canada,03/21/2024,"$4,423.42",gold
+C-0016,OMAR MARTINEZ,omar.martinez16@example.com,(303) 555-0117,DENVER,United States,05-21-2023,3724.94,GOLD
+C-0017,Evelyn Young,evelyn.young17@example.com,604.555.0151,N/A,CA,"Jan 12, 2024","$1,096.60",Bronze
+C-0018,  daniel   silva ,daniel.silva18@example.com,+1 312 555 0196,Chicago,united states,04/07/2022,4305.51,N/A
+C-0019,  Mia   Young ,mia.young19@example.com,604-555-0108,Vancouver,CANADA,2024-02-28,,silver
+C-0020,  Aisha   Lee ,aisha.lee20@example.com,(416) 555-0101,Toronto,CA,"Oct 25, 2025",3603.61,Gold
+C-0021,Lena Thompson,lena.thompson21@example.com,6135550182,OTTAWA,Canada,28 Nov 2023, 557.8 ,SILVER
+C-0022,  MIA   WRIGHT ,MIA.WRIGHT22@EXAMPLE.COM,N/A,new york,US,2023-06-24,4859.44,  BRONZE 
+C-0023,Daniel Miller,daniel.miller23@example.com,+1 514 555 0138,Montreal,canada,01 Aug 2025,USD 2538.31,Bronze
+c-0024,  Lucas   Clark ,,1-613-555-0120,-,CANADA,2025-01-09,4767.50,GOLD
+C-0025,olivia nguyen,olivia.nguyen25@example.com,503-555-0102,portland,U.S.A.,08-18-2022,USD 4645.49,SILVER
+C-0026,Elijah Brown,elijah.brown26@example.com,N/A,seattle,usa,2022-06-11,$428.27,  SILVER 
+c-0027,Ava Rodriguez,ava.rodriguez27@example.com,512.555.0184,Austin,United States,"Aug 31, 2024",4734.24,
+C-0028,EVELYN YOUNG,evelyn.young28@example.com,(206) 555-0169,Seattle,usa,13 Nov 2025,(54.06),  silver 
+C-0029,  Priya   Clark ,priya.clark29@example.com,503.555.0166,Portland,United States,07/13/2024, 605.0 ,BRONZE
+C-0030,  ava   patel , ava.patel30@example.com  ,,NEW YORK,U.S.A.,"Feb 08, 2025"," 1,150.6 ",  BRONZE 
+c-0031,OLIVIA JONES, olivia.jones31@example.com  ,403-555-0180,CALGARY,CANADA,05/01/2022,USD 1144.71,Bronze
+c-0032,Henry Jones,henry@,4165550130,Toronto,Canada,2023-07-25,"$3,344.89",Bronze
+c-0033,LENA RODRIGUEZ,lena.rodriguez33@example.com,1-403-555-0173,calgary,canada,03-26-2025,2363.36,silver
+c-0034,Arjun Taylor, arjun.taylor34@example.com  ,(312) 555-0112,Chicago,U.S.A.,09-11-2025," 2,155.3 ",Silver
+C-0035,arjun wright,arjun.wright35@example.com,403.555.0106,Calgary,CANADA,10-11-2025,3267.28,GOLD
+C-0036,Sophia Brown,N/A,6025550193,phoenix,United States,11-26-2023,4002.96,bronze
+C-0037,  elijah   taylor ,elijah.taylor37@example.com,2065550168,SEATTLE,USA,"Jul 07, 2024",700.91,BRONZE
+C-0038,James Wright,james.wright38@example.com,206-555-0109,seattle,US,2024-06-26,"$4,040.11",gold
+C-0039,Sophia Brown,sophia.brown39@example.com,514-555-0169,Montreal,CAN,01-31-2022,N/A,Bronze
+C-0040,MIA HALL,mia.hall40@example.com,503-555-0161,PORTLAND,US,03/14/2023," 4,323.2 ",BRONZE
+C-0041,Mia Lewis,MIA.LEWIS41@EXAMPLE.COM,(212) 555-0149,New York,usa,2023-06-28,"$4,632.59",Silver
+C-0042,Abigail Young,abigail.young42@example.com,+1 403 555 0193,Calgary,CAN,"Feb 12, 2025",USD 3309.36,silver
+,,,,,,,,
+C-0043,  Lucas   Taylor ,lucas.taylor43@example.com,3035550127,Denver,United States,"Apr 30, 2022",,  GOLD 
+C-0044,  Noah   Nguyen ,noah.nguyen44@example.com,555-0147,NEW YORK,U.S.A.,2025-04-11,2383.94,Gold
+C-0045,Mia Brown,mia.brown45@example.com,416.555.0110,-,CANADA,2023-01-16,12..5,BRONZE
+C-0020,AISHA LEE,aisha.lee20@example.com,1-416-555-0101,toronto,CANADA,10/25/2025,N/A,Gold
+C-0046,elijah walker,ELIJAH.WALKER46@EXAMPLE.COM,3125550172,Chicago,U.S.A.,05/20/2023,(42.96),bronze
+C-0047,MATEO HALL,mateo.hall47@example.com,5145550174,MONTREAL,Canada,"Mar 03, 2025",2613.91,Silver
+C-0048,LOGAN NGUYEN,logan.nguyen48@example.com,(206) 555-0133,seattle,usa,21 Mar 2024,USD 654.39,GOLD
+C-0049,Benjamin Wright,benjamin.wright49@example.com,(617) 555-0196,Boston,US,"May 29, 2022",$46.58,  gold 
+C-0050,sophia jones,sophia.jones50@example.com,+1 416 555 0127,N/A,CANADA,02 Nov 2024,USD 1326.00,  Silver 
+C-0051,Ava Martin,AVA.MARTIN51@EXAMPLE.COM,(617) 555-0136,Boston,united states,20 Nov 2022," 2,190.9 ",Gold
+C-0052,benjamin smith,BENJAMIN.SMITH52@EXAMPLE.COM,514.555.0170,Montreal,Canada,2023-09-06,,BRONZE
+C-0053,isabella lee,isabella.lee53@example.com,+1 312 555 0113,Chicago,United States,2025-02-07, 777.2 ,silver
+C-0054,logan patel,logan.patel54@example.com,2065550187,seattle,U.S.A.,2025-07-22,"$4,264.56",Gold
+C-0055,grace lee,grace.lee55@example.com,(212) 555-0111,NEW YORK,U.S.A.,"Jul 23, 2025"," 2,117.9 ",  Silver 
+C-0056,EMMA SMITH,emma.smith56@example.com,1-617-555-0198,Boston,USA,09/25/2022,3185.57,Silver
+C-0057,Mia King,mia.king57@example.com,416.555.0190,toronto,CA,05-25-2024,2804.53,Bronze
+,,,,,,,,
+c-0058,ava martinez,ava.martinez58@example.com,,toronto,CA,01-27-2024," 2,912.6 ",Bronze
+C-0059,wei rodriguez,wei.rodriguez59@example.com,(212) 555-0139,New York,US,"Jan 17, 2024"," 4,494.9 ",Bronze
+C-0060,chloé thomas,CHLOE.THOMAS60@EXAMPLE.COM,514.555.0131,Montreal,canada,27 Sep 2025,$513.97,N/A
+C-0061,ARJUN MARTINEZ,arjun.martinez61@example.com,1-206-555-0120,Seattle,USA,2022-12-29,4407.08,bronze
+C-0062,MASON PATEL,mason.patel62@example.com,null,OTTAWA,canada,03 Oct 2025,4320.32,bronze
+C-0063,  JAMES   WILSON ,james.wilson63@example.com,+1 613 555 0189,ottawa,CANADA,"Aug 10, 2022",1912.71,Bronze
+C-0064,hannah moore,hannah.moore64@example.com,(206) 555-0158,N/A,US,12-18-2023,"$1,525.95",Bronze
+C-0065,HARPER JOHNSON,harper.johnson65@example.com,1-514-555-0124,montreal,CAN,03-27-2024,USD 1641.31,Bronze
+C-0066,James Kim,james.kim66@example.com,1-514-555-0165,Montreal,CANADA,03/29/2024,3397.59,  GOLD 
+c-0067,Henry Johnson,henry.johnson67@example.com,312-555-0133,CHICAGO,united states,01 Jan 2023,"$2,902.95",silver
+C-0068,emma miller,emma.miller68@example.com,6045550155,vancouver,CANADA,"Dec 09, 2023","$3,642.73",silver
+C-0069,Wei Davis,wei.davis69@example.com,6025550173,Phoenix,U.S.A.,01/25/2023," 1,273.6 ",GOLD
+C-0070,wei smith,WEI.SMITH70@EXAMPLE.COM,4165550168,Toronto,CANADA,11-07-2025,3597.15,  Gold 
+C-0071,Amelia Clark,amelia.clark71@example.com,null,PHOENIX,United States,09/22/2025,"$4,603.85",-
+C-0072,EMILY DAVIS,emily.davis72@example.com,4035550138,,CANADA,11/04/2024,1546.42,Silver
+C-0073,Emily Walker,emily.walker73@example.com,403.555.0137,Calgary,canada,02-09-2025,636.44,silver
+C-0074,Zoë Anderson,zoe.anderson74@example.com,604-555-0172,vancouver,CA,09 Sep 2023,N/A,Bronze
+C-0075,  benjamin   white ,benjamin.white75@example.com,206.555.0155,Seattle,usa,04-02-2025," 3,033.3 ",silver
+c-0076,omar king,OMAR.KING76@EXAMPLE.COM,+1 503 555 0186,portland,united states,03/14/2023,USD 2555.87,Gold
+C-0077,MIA GARCIA,mia.garcia77@example.com,+1 303 555 0165,Denver,USA,09-21-2025,3164.7,Silver
+C-0078,Mateo Martin,MATEO.MARTIN78@EXAMPLE.COM,514-555-0139,Montreal,CA,06 Apr 2023,4032.81,Bronze
+c-0079,LIAM WILLIAMS,liam.williams79@example.com,(206) 555-0160,seattle,united states,2025-06-05,N/A,Bronze
+C-0080,Omar Hall,OMAR.HALL80@EXAMPLE.COM,+1 514 555 0173,null,CA,03 Feb 2023," 3,591.7 ",SILVER
+C-0081,Grace Walker,grace.walker81@example.com,1-206-555-0118,Seattle,United States,09/05/2025,USD 3438.11,BRONZE
+C-0082,wei moore,wei.moore82@example.com,(512) 555-0189,AUSTIN,U.S.A.,2024-11-26,2322.75,  Gold 
+C-0083,Elijah Davis,ELIJAH.DAVIS83@EXAMPLE.COM,(503) 555-0117,portland,USA,08/09/2024,3337.89,gold
+C-0084,Emily King,emily.king84@example.com,6045550192,VANCOUVER,CANADA,"Oct 30, 2024",USD 2133.70,GOLD
+C-0085,  FATIMA   WILSON ,fatima.example.com,403-555-0160,Calgary,CAN,07/10/2024,1295.96,BRONZE
+C-0086,james silva,james.silva86@example.com,(514) 555-0130,Montreal,Canada,07-17-2023,2199.36,Gold
+C-0038,James Wright,james.wright38@example.com,206-555-0109,seattle,US,2024-06-26,"$4,040.11",gold
+C-0087,Abigail Martin,abigail.martin87@example.com,(303) 555-0142,Denver,united states,10/17/2023," 4,465.1 ",Bronze
+C-0088,isabella martinez,isabella.martinez88@example.com,1-206-555-0149,SEATTLE,United States,"Nov 22, 2025", 764.0 ,bronze
+C-0089,Ava Hall,ava.hall89@example.com,1-602-555-0142,PHOENIX,usa,"Jan 16, 2025",USD 2329.62,Bronze
+C-0090,LOGAN HALL,logan.hall90@example.com,602.555.0198,PHOENIX,USA,2025-04-11,4730.31,Bronze
+C-0091,Zoë Müller,zoe.muller91@example.com,2125550145,New York,U.S.A.,2023-09-04,3767.38,SILVER
+c-0092,  LENA   MOORE ,lena.moore92@example.com,(503) 555-0128,PORTLAND,USA,07-13-2023,2179.18,Bronze
+C-0093,zoë patel,zoe.patel93@example.com,1-514-555-0186,Montreal,canada,08 Apr 2024,3620.91,  Silver 
+C-0094,  ISABELLA   JOHNSON ,ISABELLA.JOHNSON94@EXAMPLE.COM,+1 602 555 0175,phoenix,U.S.A.,03-01-2025,3315.00,Bronze
+C-0095,Wei Rodriguez,wei.rodriguez95@example.com,5035550123,N/A,United States,"Apr 13, 2022",1300.78,SILVER
+c-0096,Logan Wright,logan.wright96@example.com,+1 617 555 0143,Boston,united states,16 Feb 2024,1391.28,  silver 
+C-0097,Evelyn Garcia,evelyn.garcia97@example.com,503.555.0102,N/A,US,01-09-2025,USD 260.43,SILVER
+C-0098,Harper Jones,harper.jones98@example.com,N/A,Ottawa,CAN,2023-02-30,3771.17,N/A
+C-0099,  amelia   johnson ,AMELIA.JOHNSON99@EXAMPLE.COM,1-604-555-0119,Vancouver,Canada,2023-05-04,631.10,gold
+C-0100,ETHAN THOMAS,ethan.thomas100@example.com,503-555-0189,Portland,united states,2023-06-09,"$3,834.49",bronze
+c-0101,ethan wilson, ethan.wilson101@example.com  ,303-555-0113,DENVER,U.S.A.,31 Mar 2025, 128.4 ,  silver 
+C-0102,ZOË WALKER,zoe.walker102@example.com,call me,Calgary,canada,"Jun 05, 2022","$2,960.49",Gold
+C-0103,ELIJAH MILLER,elijah.miller103@example.com,+1 403 555 0198,Calgary,CANADA,10 Sep 2023,"$4,251.47",Gold
+C-0104,Ethan Williams,ethan.williams104@example.com,+1 617 555 0168,Boston,united states,2024-05-27,USD 3307.61,BRONZE
+C-0105,DANIEL PATEL,daniel.patel105@example.com,+1 212 555 0153,new york,united states,09/30/2024,527.69,  Silver 
+C-0106,omar martinez,omar.martinez106@example.com,6025550122,phoenix,US,04 Dec 2024,4827.37,Silver
+C-0107,Lena Müller,LENA.MULLER107@EXAMPLE.COM,(503) 555-0155,Portland,usa,2025-04-28," 1,342.0 ",BRONZE
+C-0108,MATEO THOMPSON,mateo.thompson108@example.com,503.555.0131,Portland,united states,09 Aug 2024,"$2,849.25",gold
+C-0064,hannah moore,hannah.moore64@example.com,(206) 555-0158,N/A,US,12-18-2023,"$1,525.95",Bronze
+C-0109,ZOË PATEL,zoe.patel109@example.com,2125550163,New York,US,10/28/2023, 909.2 ,
+C-0083,Elijah Davis,ELIJAH.DAVIS83@EXAMPLE.COM,(503) 555-0117,portland,USA,08/09/2024,3337.89,gold
+C-0110,Chloé Lee,chloe.lee110@example.com,617-555-0135,boston,united states,05-05-2025,abc,silver
+  ,  ,  ,  ,  ,  ,  ,  ,  
+C-0111,Diego Smith,diego.smith111@example.com,212-555-01478,Toronto,CA,06/25/2022,"$1,206.78",Silver
+C-0112,GRACE MARTIN,grace.martin112@example.com,1-403-555-0160,Calgary,CANADA,08-15-2025,USD 3559.21,silver
+c-0113,liam garcia,liam.garcia113@example.com,1-303-555-0128,DENVER,US,2024-04-08," 3,458.9 ",SILVER
+C-0114,José Müller,jose.muller114@example.com,+1 416 555 0167,TORONTO,CANADA,2023-12-06,2127.52,gold
+C-0115,DIEGO PATEL,diego.patel115@example.com,617-555-0189,Boston,US,07/18/2024,1354.58,Silver
+C-0116,harper davis,harper.davis116@example.com,403-555-0124,Calgary,CANADA,"Oct 09, 2023",USD 597.77,Gold
+C-0117,mason taylor,,206-555-0194,SEATTLE,United States,"Sep 18, 2024","$1,382.50",Gold
+C-0118,AISHA WHITE,aisha.white118@example.com,+1 312 555 0124,,US,30 Aug 2023,USD 1137.42,bronze
+C-0119,Benjamin Smith,benjamin@example,4035550168,calgary,Canada,17 Sep 2022," 1,371.6 ",BRONZE
+C-0120,diego white,diego.white120@example.com,403.555.0116,Calgary,Canada,30 Jul 2025," 4,342.3 ",
+C-0121,SOPHIA SMITH,sophia.smith121@example.com,604-555-0136,vancouver,Canada,2024-08-19,USD 2393.57,
+C-0122,mason brown,mason.brown122@example.com,(303) 555-0161,null,United States,"Aug 22, 2022","$4,110.58",  SILVER 
+C-0123,   ,grace.jones123@example.com,(604) 555-0180,vancouver,canada,11-06-2025,$268.05,  Bronze 
+C-0005,WEI PATEL, wei.patel5@example.com  ,-,DENVER,United States,03/17/2023,4786.07,Silver
+c-0124,Benjamin Garcia,benjamin.garcia124@example.com,+1 206 555 0115,SEATTLE,USA,16 Feb 2025,3822.22,Gold
+C-0125,HARPER LEWIS,HARPER.LEWIS125@EXAMPLE.COM,1-503-555-0156,portland,united states,"Sep 01, 2023",N/A,Silver
+C-0058,AVA MARTINEZ,ava.martinez58@example.com,1-416-555-0104,TORONTO,canada,01/27/2024," 2,912.6 ",bronze
+C-0126,Benjamin Brown,BENJAMIN.BROWN126@EXAMPLE.COM,1-604-555-0194,Vancouver,canada,07/23/2022,"$4,737.95",BRONZE
+C-0079,  liam   williams ,LIAM.WILLIAMS79@EXAMPLE.COM,(206) 555-0160,seattle,United States,06/05/2025," 4,248.7 ",bronze
+C-0127,  Logan   Lee ,LOGAN.LEE127@EXAMPLE.COM,,MONTREAL,CANADA,2022-11-18,1199.33,GOLD
+C-0128,Ava Wilson,ava.wilson128@example.com,212-555-0152,NEW YORK,U.S.A.,13/45/2023,3446.86,SILVER
+c-0129,Abigail Williams,ABIGAIL.WILLIAMS129@EXAMPLE.COM,,Seattle,united states,12/18/2025,null,silver
+C-0130,ava moore,AVA.MOORE130@EXAMPLE.COM,+1 303 555 0180,Denver,usa,"Apr 22, 2025",3305.92,BRONZE
+C-0125,HARPER LEWIS,harper.lewis125@example.com,503.555.0156,Portland,united states,"Sep 01, 2023"," 4,300.8 ",Silver
+c-0131,Wei Davis,wei.davis131@example.com,4165550128,Toronto,Canada,08/19/2025,744.95,SILVER
+c-0132,Lucas Jones,lucas.jones132@example.com,212.555.0121,new york,usa,09-22-2023,2975.22,Gold
+C-0133,  ABIGAIL   KING ,abigail.king133@example.com,312.555.0159,CHICAGO,United States,11/11/2025,USD 1520.46,silver
+C-0134,JAMES SILVA,james.silva134@example.com,503-555-0110,PORTLAND,United States,2025-05-09,USD 199.30,Silver
+C-0135,EMILY LEE,emily.lee135@example.com,212-555-0111,New York,USA,04-14-2023,4809.56,
+C-0136,liam thompson,liam.thompson136@example.com,6045550105,Vancouver,CANADA,"Dec 25, 2022"," 2,352.5 ",Gold
+C-0137,FATIMA THOMPSON,fatima.thompson137@example.com,(512) 555-0174,Austin,U.S.A.,2024-06-11,3173.92,SILVER
+C-0138,Mateo Müller,mateo.muller138@example.com,6175550152,Boston,USA,14 Nov 2023,USD 1605.29,Bronze
+C-0139,mia patel, mia.patel139@example.com  ,+1 602 555 0188,Phoenix,United States,10/11/2024,"$1,441.09",Silver
+c-0140,DIEGO WILLIAMS,diego.williams140@example.com,503.555.0111,Portland,United States,2023-10-07,"$1,261.99",BRONZE
+,,,,,,,,
+c-0139,Mia Patel,mia.patel139@example.com,(602) 555-0188,Phoenix,united states,11 Oct 2024,USD 1441.09,  Silver 
+C-0080,OMAR HALL,omar.hall80@example.com,1-514-555-0173,montreal,CA,2023-02-03,"$3,591.73",  silver 
+c-0114,  José   Müller ,jose.muller114@example.com,+1 416 555 0167,Toronto,CA,12/06/2023,"$2,127.52",Gold

@@ -1,0 +1,69 @@
+# Cleaning rules for data/sample/raw_customer_records.csv
+#
+# Column names are the *standardized* names: headers are converted to
+# snake_case first, so "Email Address" becomes email_address and
+# "Total Spent ($)" becomes total_spent.
+
+[general]
+standardize_column_names = true
+# Values treated as blank (case-insensitive, after trimming spaces).
+missing_markers = ["", "na", "n/a", "null", "none", "nan", "-", "?"]
+
+[columns]
+# Rows missing any of these are moved to the "Rejected Rows" sheet.
+required = ["customer_id", "full_name", "email_address"]
+emails = ["email_address"]
+phones = ["phone_no"]
+dates = ["signup_date"]
+numbers = ["total_spent"]
+
+[text_case]
+# title | lower | upper | sentence
+customer_id = "upper"
+full_name = "title"
+city = "title"
+membership = "title"
+
+# Standardize spelling variants (matching ignores letter case).
+[value_maps.country]
+"us" = "United States"
+"usa" = "United States"
+"u.s." = "United States"
+"u.s.a." = "United States"
+"united states" = "United States"
+"united states of america" = "United States"
+"ca" = "Canada"
+"can" = "Canada"
+"canada" = "Canada"
+
+[missing_values]
+# leave | drop_row | fill:<value>
+city = "fill:Unknown"
+membership = "fill:Standard"
+total_spent = "fill:0"
+
+[duplicates]
+# Two rows with the same email address are the same customer.
+subset = ["email_address"]
+
+[dates]
+# US data: month/day/year is tried before day/month/year. First match wins.
+formats = [
+    "%Y-%m-%d",
+    "%m/%d/%Y",
+    "%m-%d-%Y",
+    "%b %d, %Y",
+    "%B %d, %Y",
+    "%d %b %Y",
+    "%d-%b-%Y",
+    "%Y/%m/%d",
+    "%Y-%m-%d %H:%M:%S",
+]
+
+[phones]
+digits = 10
+country_code = "1"
+
+[excel]
+date_format = "yyyy-mm-dd"
+number_format = "#,##0.00"

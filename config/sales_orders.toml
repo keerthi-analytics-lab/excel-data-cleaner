@@ -1,0 +1,47 @@
+# Cleaning rules for data/sample/raw_sales_orders.xlsx (Indian e-commerce export).
+# Column names are the standardized snake_case names.
+
+[general]
+# Words that keep their capitals after title-casing ("hd webcam" -> "HD Webcam").
+acronyms = ["HD", "USB-C"]
+
+[columns]
+required = ["order_id", "order_date", "product"]
+emails = ["customer_email"]
+dates = ["order_date"]
+numbers = ["quantity", "unit_price_inr"]
+
+[text_case]
+order_id = "upper"
+product = "title"
+region = "title"
+
+[value_maps.region]
+"n" = "North"
+"s" = "South"
+"e" = "East"
+"w" = "West"
+
+[missing_values]
+quantity = "drop_row"
+region = "fill:Unassigned"
+
+[duplicates]
+# The same order exported twice.
+subset = ["order_id"]
+
+[dates]
+# Indian data: day/month/year. Real Excel dates arrive as "YYYY-MM-DD HH:MM:SS".
+formats = [
+    "%Y-%m-%d %H:%M:%S",
+    "%Y-%m-%d",
+    "%d/%m/%Y",
+    "%d-%m-%Y",
+    "%d.%m.%Y",
+    "%d %b %Y",
+    "%d-%b-%Y",
+]
+
+[excel]
+date_format = "dd-mmm-yyyy"
+number_format = "#,##0.00"
